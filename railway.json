@@ -1,0 +1,7 @@
+{
+  "build": {
+    "builder": "gradle",
+    "buildCommand": "./gradlew build",
+    "startCommand": "./gradlew run"
+  }
+}
